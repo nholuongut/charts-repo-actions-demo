@@ -8,9 +8,9 @@ Example project to demo testing and hosting a chart repository with GitHub Pages
 
 ## Actions
 
-* [@helm/kind-action](https://github.com/helm/kind-action)
+* [@helm/kind-action](https://github.com/nholuongut/kind-action)
 * [@helm/chart-testing-action](https://github.com/nholuongut/chart-testing-action)
-* [@helm/chart-releaser-action](https://github.com/helm/chart-releaser-action)
+* [@helm/chart-releaser-action](https://github.com/nholuongut/chart-releaser-action)
 
 ## Project Status
 
